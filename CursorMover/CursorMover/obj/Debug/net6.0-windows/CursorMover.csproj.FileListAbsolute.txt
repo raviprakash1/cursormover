@@ -1,0 +1,17 @@
+C:\Users\RP108841\source\repos\Ravi\CursorMover\CursorMover\bin\Debug\net6.0-windows\CursorMover.exe
+C:\Users\RP108841\source\repos\Ravi\CursorMover\CursorMover\bin\Debug\net6.0-windows\CursorMover.deps.json
+C:\Users\RP108841\source\repos\Ravi\CursorMover\CursorMover\bin\Debug\net6.0-windows\CursorMover.runtimeconfig.json
+C:\Users\RP108841\source\repos\Ravi\CursorMover\CursorMover\bin\Debug\net6.0-windows\CursorMover.dll
+C:\Users\RP108841\source\repos\Ravi\CursorMover\CursorMover\bin\Debug\net6.0-windows\CursorMover.pdb
+C:\Users\RP108841\source\repos\Ravi\CursorMover\CursorMover\obj\Debug\net6.0-windows\CursorMover.csproj.AssemblyReference.cache
+C:\Users\RP108841\source\repos\Ravi\CursorMover\CursorMover\obj\Debug\net6.0-windows\CursorMover.Form1.resources
+C:\Users\RP108841\source\repos\Ravi\CursorMover\CursorMover\obj\Debug\net6.0-windows\CursorMover.csproj.GenerateResource.cache
+C:\Users\RP108841\source\repos\Ravi\CursorMover\CursorMover\obj\Debug\net6.0-windows\CursorMover.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RP108841\source\repos\Ravi\CursorMover\CursorMover\obj\Debug\net6.0-windows\CursorMover.AssemblyInfoInputs.cache
+C:\Users\RP108841\source\repos\Ravi\CursorMover\CursorMover\obj\Debug\net6.0-windows\CursorMover.AssemblyInfo.cs
+C:\Users\RP108841\source\repos\Ravi\CursorMover\CursorMover\obj\Debug\net6.0-windows\CursorMover.csproj.CoreCompileInputs.cache
+C:\Users\RP108841\source\repos\Ravi\CursorMover\CursorMover\obj\Debug\net6.0-windows\CursorMover.dll
+C:\Users\RP108841\source\repos\Ravi\CursorMover\CursorMover\obj\Debug\net6.0-windows\refint\CursorMover.dll
+C:\Users\RP108841\source\repos\Ravi\CursorMover\CursorMover\obj\Debug\net6.0-windows\CursorMover.pdb
+C:\Users\RP108841\source\repos\Ravi\CursorMover\CursorMover\obj\Debug\net6.0-windows\CursorMover.genruntimeconfig.cache
+C:\Users\RP108841\source\repos\Ravi\CursorMover\CursorMover\obj\Debug\net6.0-windows\ref\CursorMover.dll
